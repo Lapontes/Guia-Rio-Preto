@@ -1,0 +1,5 @@
+{
+  "name": "Guia Rio Preto",
+  "description": "Um aplicativo para localizar estabelecimentos em São José do Rio Preto usando a API Gemini com Google Maps Grounding para fornecer resultados precisos e atualizados.",
+  "requestFramePermissions": []
+}
